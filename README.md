@@ -2,15 +2,13 @@
 
 **Hello!** 😃  
 
-My name is Călin Craiu. I am currently student at [UCL](https://www.ucl.ac.uk/), pursuing a Master of Science in Architectural Computation. I am passionate about computational design, research and machine learning. My background is in architecture, but I am enthusiastically studying topics in various fields, between math, computation and design.
+My name is Călin Craiu. I have a Master of Science in Architectural Computation from [UCL](https://www.ucl.ac.uk/). I am passionate about machine learning and computational design.
 
-- Feel free to contact me, I am always eager to learn, discuss & meet new people!
 - Best way to reach me: craiucalin@gmail.com
 
 ## **Where to find me**
 
 **[LinkedIn](https://www.linkedin.com/in/calin-craiu-914855187/)**  
-**[Twitter](https://twitter.com/CalinCraiu)**
 
 
 <!---
